@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clyvera/.github/main/profile/banner.svg" alt="Clyvera – Verwaltungssoftware für große Communities und Projekte" width="100%">
+  <img src="./banner.svg" alt="Clyvera – Verwaltungssoftware für große Communities und Projekte" width="100%">
 </p>
 
 <p align="center">
